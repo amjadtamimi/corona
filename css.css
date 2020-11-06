@@ -1,0 +1,56 @@
+button{
+
+background-color: rgb(250, 133, 196);
+border-width: 2px;
+border-style: solid;
+border-bottom-color:rgb(156, 6, 86) ;
+border-radius: 30px;
+
+padding-bottom: 5px;
+}
+div{
+background-color: hotpink;
+
+
+}
+a{
+color: white;
+
+    text-decoration: none;
+
+}
+img{
+    width: 33%;
+    
+    
+}
+video{
+
+ width: 33%;
+height: 40%;
+max-width:max-content;
+margin: auto;
+
+}
+
+
+#div1{
+    
+   
+    padding:0%;
+
+margin: 0px;
+}
+#videos
+{
+    margin: 0px;
+    padding: 0%;
+    
+}
+#div2{
+
+    background-color: orchid;
+
+
+}
+

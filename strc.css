@@ -1,0 +1,48 @@
+#cont {
+    width: 100%;
+    height: 1700px;
+
+}
+
+header {
+    border: 1px solid black;
+    width: 90%;
+    
+    height: 50PX;
+    margin: auto;
+}
+
+nav {
+    border: 1px solid black;
+    width: 90%;
+    
+    height: 50PX;
+    margin: auto;
+    clear: both;
+}
+
+main {
+    border: 1px solid black;
+    width: 90%;
+    margin: auto;
+    height: 1700PX;
+    
+
+}
+
+
+
+footer {
+    border: 1px solid black;
+    width: 90%;
+    height: 100px;
+    
+    margin-top: 40px;
+    margin: auto;
+    clear: both;
+}
+body{
+text-align: center;
+
+}
+
